@@ -1,0 +1,8 @@
+{
+  "name": "cn-area",
+  "version": "0.0.1",
+  "description": "A static China provice and city json file for project use.",
+  "main": "index.js",
+  "author": "Ailun She",
+  "license": "MIT"
+}
