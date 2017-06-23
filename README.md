@@ -8,3 +8,10 @@
 ```bashy
 npm install cn-area -S
 ```
+
+### How to use
+```bashy
+import {general} from 'cn-area';
+console.log(general);
+```
+
